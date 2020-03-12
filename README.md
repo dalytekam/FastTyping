@@ -1,27 +1,23 @@
-# SpeedTyping
+#  Fast Typing App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
+Access here  [Fast Typing App](https://fast-typing-app.netlify.com/)
 
-## Development server
+ As the Name suggest, This App is a test for the typing spped of the user. Words are randomly generated and the user
+ has to type them before the end of countdown. The score is tracked as well, Is a small cute App to play with. 
+ 
+ Technologies used: 
+ 
+ **Angular 7, Bootstrap.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+# My Others Projects
+- [Blog Post Web application](https://blog-post-project.herokuapp.com/)
+- [Inventory Manager](https://inventory-app-manager.herokuapp.com/)
+- [Cookie Click Game](https://2020-spring-cohort.github.io/clicking-calamity-dalytekam)
+- [Hospital manager](https://github.com/2020-Spring-Cohort/high-st-hospital-dalytekam)
+- [List Pagination](https://list-pagination.netlify.com/)
+- [Random Quotes Generator](https://quote-gener.netlify.com/)
+- [Registering App](https://registering-app.netlify.com/)
+- [Fast Typing App](https://fast-typing-app.netlify.com/)
+- [To do List Application](https://dalytekam.github.io/Todo-list-Application/)
+- [Country ID App](https://dalytekam.github.io/Countries_Datas)
